@@ -1,0 +1,12 @@
+#Caracteristicas:
+
+*FIFO= Primeira a entrar, primeiro a sair (First in, First out);
+
+*Primeiro no aponta para null, segundo nó aponta para primeiro, terceiro para segundo deixa uma referencia apontado para
+o fim da fila
+
+* .ENQUEUE() = enfileirar;
+
+* .DEQUEUE() = desenfileirar;
+
+ .ISEMPTY() = informa se a fila está vazia;

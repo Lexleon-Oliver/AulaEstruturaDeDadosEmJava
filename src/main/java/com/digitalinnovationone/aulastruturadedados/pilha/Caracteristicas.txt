@@ -1,0 +1,15 @@
+#Caracteristicas:
+
+
+*LIFO= Ultimo a entrar, primeiro a sair(Last in, first out);
+
+*Primeiro no aponta para null, segundo nó aponta para primeiro, terceiro para segundo deixa uma referencia apontado para
+o topo da pilha
+
+* .TOP() = recebe a referencia do topo sem removê-lo;
+
+* .POP() = recebe a referencia do topo removendo-ô;
+
+* .PUSH() = acrescenta um novo topo à pilha;
+
+* .ISEMPTY() = informa se a pilha está vazia;
