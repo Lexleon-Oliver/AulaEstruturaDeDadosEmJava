@@ -1,0 +1,10 @@
+#Caracteristicas:
+
+*semelhante a filas.
+
+*Referencia ao ultimo no que aponta para o penultimo que aponta para o antepenultimo ate que o primeiro aponte para null;
+
+* .ADD()= adiciona elemento permitindo escolha da posicao onde inserir.
+* .REMOVE()= remove elemento.
+* .ISEMPTY()= verifica se a lista está vazia.
+* .GET()= retorna elemento do indice informado sem excluí-lo.
